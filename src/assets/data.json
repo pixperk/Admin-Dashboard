@@ -1,0 +1,90 @@
+{"categories":[
+    {
+      "heading": "Laptops",
+      "value": 70,
+      "color": "navy"
+    },
+    {
+      "heading": "Phones",
+      "value": 50,
+      "color": "forestgreen"
+    },
+    {
+      "heading": "Tablets",
+      "value": 30,
+      "color": "crimson"
+    },
+    
+    {
+      "heading": "Desktops",
+      "value": 45,
+      "color": "darkorange"
+    },
+    {
+      "heading": "Monitors",
+      "value": 60,
+      "color": "purple"
+    },
+    {
+      "heading": "Printers",
+      "value": 25,
+      "color": "chocolate"
+    },
+    {
+      "heading": "Storage Devices",
+      "value": 55,
+      "color": "goldenrod"
+    },
+    {
+      "heading": "Software",
+      "value": 40,
+      "color": "mediumvioletred"
+    }
+  ],
+
+  "transactions"  : [
+    {
+      "id": "txn001",
+      "amount": 250.75,
+      "quantity": 3,
+      "status": "Completed",
+      "discount": 100
+    },
+    {
+      "id": "txn002",
+      "amount": 120.50,
+      "quantity": 1,
+      "status": "Pending",
+      "discount": 50
+    },
+    {
+      "id": "txn003",
+      "amount": 75.00,
+      "quantity": 2,
+      "status": "Failed",
+      "discount": 0
+    },
+    {
+      "id": "txn004",
+      "amount": 320.00,
+      "quantity": 4,
+      "status": "Completed",
+      "discount": 150
+    },
+    {
+      "id": "txn005",
+      "amount": 89.99,
+      "quantity": 1,
+      "status": "Completed",
+      "discount": 8
+    },
+    {
+      "id": "txn006",
+      "amount": 150.25,
+      "quantity": 3,
+      "status": "Pending",
+      "discount": 12
+    }
+  ]
+}
+  
